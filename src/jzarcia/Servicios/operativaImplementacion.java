@@ -50,7 +50,7 @@ public class operativaImplementacion implements operativaInterfaz {
 			System.out.println(" Vamos muy mal ");
 		}
 		
-		System.out.println(aux);
+		System.out.println("Su saldo es de: " + aux);
 		
 	}
 	
