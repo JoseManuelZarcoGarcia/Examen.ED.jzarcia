@@ -18,7 +18,6 @@ public class operativaImplementacion implements operativaInterfaz {
 		opcionEnviar = Long.parseLong(opcionConsola);
 		
 		aux = patata + opcionEnviar;
-		System.out.println(aux);
 		return aux;
 		
 	}
@@ -35,7 +34,6 @@ public class operativaImplementacion implements operativaInterfaz {
 		opcionEnviar = Long.parseLong(opcionConsola);
 		
 		aux = patata - opcionEnviar;
-		System.out.println(aux);
 		return aux;
 			
 	}

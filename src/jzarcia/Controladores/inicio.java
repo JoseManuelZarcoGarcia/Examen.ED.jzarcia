@@ -57,6 +57,7 @@ public class inicio {
 				break;
 			
 			default:
+				System.out.println("No es una opcion valida");
 				break;
 
 			
